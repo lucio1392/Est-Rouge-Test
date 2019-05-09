@@ -7,9 +7,9 @@ target 'Est Rouge Test' do
 
   # Pods for Est Rouge Test
 
-    pod 'RxSwift', '~> 5'
-    pod 'RxCocoa', '~> 5'
-    pod 'SnapKit', '~> 5.0.0'
+    pod 'RxSwift'
+    pod 'RxCocoa'
+    pod 'SnapKit'
     pod 'Cache'
     pod 'Imaginary'
 
@@ -31,8 +31,8 @@ target 'Est_Rouge_Test_Tests' do
 
   use_frameworks!
 
-  pod 'RxSwift', '~> 5'
-  pod 'RxCocoa', '~> 5'
+  pod 'RxSwift'
+  pod 'RxCocoa'
 
 end
 
